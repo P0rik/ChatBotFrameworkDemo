@@ -16,7 +16,7 @@ namespace ChatBotConfig
             /// https://discord.com/developers/applications
             /// 
             /// application/Bot DoIt
-            this.token = "ODE1Nzc1ODgzMTU5NTM1Njc3.YDxUfg.HwsbcQY406dJoCspExBrcz9iAfE";
+            this.token = "";
 
             // скопировать CLIENT ID из General Information
             // далее авторизовать бота на сервере 
