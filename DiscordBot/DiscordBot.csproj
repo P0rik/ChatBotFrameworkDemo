@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,11 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DSharpPlus" Version="4.0.0-rc2" />
-    <PackageReference Include="TwitchLib" Version="3.2.0" />
+    <PackageReference Include="DSharpPlus" Version="3.2.3" />
   </ItemGroup>
-		
-		<ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ChatBotConfig\ChatBotConfig.csproj" />
   </ItemGroup>
 
