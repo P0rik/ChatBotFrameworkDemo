@@ -34,8 +34,8 @@ namespace ChatBotConfig
 
         private VkConfig()
         {
-           this.accessToken = "1c4c23458e924fd6ccc3225c2a0df785517a8b3845bafae59fca1e0c3a8b7d7a5105e4c8811f31dba4237";
-           this.groupId = 202670669;
+           this.accessToken = "";
+           this.groupId = 0;
 
             #region other
 
